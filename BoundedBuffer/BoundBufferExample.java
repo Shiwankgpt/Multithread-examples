@@ -12,6 +12,8 @@ public class BoundBufferExample {
 
     // Set a default size for the bounded buffer
     int size=50;
+    int x = 7;
+    int y =9;
 
     // Change the size based on command line arguments if any
     if(args.length == 1) {
